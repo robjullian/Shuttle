@@ -28,7 +28,7 @@
     "electron-updater": "^4.0.5",
     "extract-zip": "^1.6.7",
     "file-saver": "^2.0.0",
-    "google-auth-library": "^5.2.1",
+    "google-auth-library": "^6.0.0",
     "lowdb": "^1.0.0",
     "menubar": "^5.2.3",
     "mime": "^2.4.4",
